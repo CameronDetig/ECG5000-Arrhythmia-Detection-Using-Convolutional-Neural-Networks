@@ -2,6 +2,8 @@ Adapted from “ECG Classification System for Arrhythmia Detection Using Convolu
 
 A. Odugoudar and J. S. Walia, “ECG Classification System for Arrhythmia Detection Using Convolutional Neural Networks,” arXiv preprint arXiv:2303.03660v2, Jun. 2024. [Online]. Available: https://arxiv.org/abs/2303.03660
 
+GitHub: https://github.com/karanwxliaa/Arrythmia-Detection-using-ECG/tree/main#
+
 Convolutional Neural Network intended for 5-class classification of ECG heart beat recordings.
 
 Uses the ECG5000 Dataset from https://www.timeseriesclassification.com/description.php?Dataset=ECG5000
